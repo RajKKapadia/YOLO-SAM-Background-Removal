@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Custom files
+input.jpg
+output.png
+
+# Models
+sam_vit_h.pth
+yolo12x.pt
