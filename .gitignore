@@ -10,8 +10,8 @@ wheels/
 .venv
 
 # Custom files
-input.jpg
-output.png
+images/
+output/
 
 # Models
 sam_vit_h.pth
